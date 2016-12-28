@@ -379,22 +379,24 @@
     "title": "The Men Who Stare At Goats",
     "author": "Jon Ronson"
   },
-{
-"title": "The Martian",
-"author": "Andy Weir"
-},
-{
-  "title": "The Damned",
-  "author": "Chuck Palahniuk"
-},
-{
-  "title": "All Quiet on the Western Front",
-  "author": "Erich Maria Remarque"
-},
-"title": "Yes Please",
-"author": "Amy Poehler"
-},
-"title": "Out of the Ordinary",
-"author": "Jon Ronson"
-}
+  {
+  "title": "The Martian",
+  "author": "Andy Weir"
+  },
+  {
+    "title": "The Damned",
+    "author": "Chuck Palahniuk"
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "author": "Erich Maria Remarque"
+  },
+  {
+    "title": "Yes Please",
+    "author": "Amy Poehler"
+  },
+  {
+    "title": "Out of the Ordinary",
+    "author": "Jon Ronson"
+  }
 ]
