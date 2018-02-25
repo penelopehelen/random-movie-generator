@@ -1,14 +1,11 @@
-var movies = [
-    "Jurassic Park",
-    "Stigmata",
-    "Toy Story",
-    "Pulp Fiction",
-    "Moon",
-    "Star Wars"
-]
-console.log(movies)
+fetch("movies.json").then(function(response) {
+  return response.text();
+}).then(function(movies) {
+  console.log( JSON.parse(movies))
 
-
-document.getElementById("test").addEventListener("click", function( event ) {
-document.getElementById("movie").innerHTML = movies[Math.floor(Math.random() *movies.length)]
-}, false);
+  var movies = JSON.parse(movies);
+    document.getElementById("movie_selector").addEventListener("click", function( event ) {
+      var movies = movies[Math.floor(Math.random() *movies.length)];
+      document.getElementById("movie").innerHTML = movie.title
+  }, false);
+})
