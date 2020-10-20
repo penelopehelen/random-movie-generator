@@ -8,10 +8,6 @@
     "author": "Graham Hurley"
   },
   {
-    "title": "Jurassic Park",
-    "author": "Michael Crighton"
-  },
-  {
     "title": "The Naming of the Dead",
     "author": "Ian Rankin"
   },
@@ -132,14 +128,6 @@
     "author": "Lewis Carroll"
   },
   {
-    "title": "Only in America",
-    "author": "Dominic Holland"
-  },
-  {
-    "title": "Neris and India's Idiot-Proof Diet",
-    "author": "Inndia Knight & Neris Thomas"
-  },
-  {
     "title": "Flowers in the Rain",
     "author": "Rosamunde Pilcher"
   },
@@ -168,10 +156,6 @@
     "author": "Cathy Glass"
   },
   {
-    "title": "Gone Girl",
-    "author": "Gillian Flynn"
-  },
-  {
     "title": "One Day",
     "author": "David Nicholls"
   },
@@ -188,7 +172,7 @@
     "author": "Lauren Weisberger"
   },
   {
-      "title": "A Child Called ‘It’",
+    "title": "A Child Called ‘It’",
     "author": "Dave Pelzer"
   },
   {
@@ -206,10 +190,6 @@
   {
     "title": "Trainspotting",
     "author": "Irvine Welsh"
-  },
-  {
-    "title": "The Perks of Being a Wallflower",
-    "author": "Stephen Chbosky"
   },
   {
     "title": "The Lion, The Witch and The Wardrobe",
@@ -264,10 +244,6 @@
     "author": "Alice Walker"
   },
   {
-    "title": "The Psychopath Test",
-    "author": "Jon Ronson"
-  },
-  {
     "title": "The Boy in the Stripped Pajamas",
     "author": "John Boyne"
   },
@@ -282,10 +258,6 @@
   {
     "title": "Starter for Ten",
     "author": "David Nicholls"
-  },
-  {
-    "title": "The Hotel New Hampshire",
-    "author": "John Irving"
   },
   {
     "title": "Hold Tight",
@@ -310,18 +282,6 @@
   {
     "title": "The Wolf of Wall Street",
     "author": "Jordon Belfort"
-  },
-  {
-    "title": "The Woven Path (1)",
-    "author": "Robin Jarvis"
-  },
-  {
-    "title": "The Raven's Knot (2)",
-    "author": "Robin Jarvis"
-  },
-  {
-    "title": "The Fatal Strand (3)",
-    "author": "Robin Jarvis"
   },
   {
     "title": "The Girl with the Dragon Tattoo",
@@ -392,10 +352,6 @@
     "author": "Erich Maria Remarque"
   },
   {
-    "title": "Yes Please",
-    "author": "Amy Poehler"
-  },
-  {
     "title": "Out of the Ordinary",
     "author": "Jon Ronson"
   },
@@ -406,14 +362,6 @@
   {
     "title": "My Booky Wook",
     "author": "Russell Brand"
-  },
-  {
-    "title": "Lullaby",
-    "author": "Chuck Palahniuk"
-  },
-  {
-    "title": "Choke",
-    "author": "Chuck Palahniuk"
   },
     {
     "title": "Haunted",
@@ -440,63 +388,11 @@
     "author": "Kennilworthy Whisp"
   },
   {
-    "title": "Braver Than Britain, Occasionally",
-    "author": "Spadge Whittaker"
-  },
-  {
     "title": "The Melancholy Death of Oyster Boy",
     "author": "Tim Burton"
   },
   {
-    "title": "Trueblood",
-    "author": "Charlaine Harris"
-  },
-  {
-    "title": "Tell No One",
-    "author": "Harlan Coben"
-  },
-  {
     "title": "A Street Cat Named Bob",
     "author": "James Bowen"
-  },
-  {
-    "title": "Please, Daddy, No",
-    "author": "Stuart Howarth"
-  },
-  {
-    "title": "Nineteen Eighty Five",
-    "author": "George Orwell"
-  },
-  {
-    "title": "Frank",
-    "author": "Jon Ronson"
-  },
-  {
-    "title": "Fear and Loathing in Las Vegas",
-    "author": "Hunter S Thompson"
-  },
-  {
-    "title": "Them: Adventures with Extremists",
-    "author": "Jon Ronson"
-  },
-  {
-    "title": "Fight Club",
-    "author": "Chuck Palahniuk"
-  },
-  {
-    "title": "Pygmy",
-    "author": "Chuck Palahniuk"
-  },
-  {
-    "title": "The Psychopath Test",
-    "author": "Jon Ronson"
-  },
-  {
-    "title": "Do Fly",
-    "author": "Gavin Strange"
-  },
-  {
-    "title": "Survivor",
-    "author": "Chuck Palahniuk"
   }
 ]
